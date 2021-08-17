@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @3bduldev
+- 👀 I’m interested in game development and app development
+- 🌱 I’m currently learning React Native and Flutter
+- 💞️ I’m looking to collaborate on Game Development
+- 📫 You can Email me in 3bduldev@gmail.com
